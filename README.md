@@ -2,7 +2,8 @@
 
 # REG NO: 212223240107
 
-### EXP.NO:5 ENCODER 8TO3 DATAFLOW Modelling
+## EXP.NO:5 
+## ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
